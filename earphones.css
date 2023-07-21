@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+    width:100%;
+    font-size:larger;
+    margin-top: 0px;
+}
+
+.link
+{
+    background: black;
+    border-radius: 10px;
+    width: 80px;
+    margin-top: 15px;
+    font-size:medium;
+    float:right;
+}
